@@ -1,13 +1,12 @@
 {
-    "name": "My awesome extension :)",
+    "name": "COVID-19 Blocker",
     "version": "0.1",
     "icons": {
         "16": "/img/icons/icon_16.png",
-        "48": "/img/icons/icon_48.png",
-        "128": "/img/icons/icon_128.png"
+        "128": "/img/icons/icon_128.jpg"
     },
 
-    "description": "Yay, I'm so useless.",
+    "description": "Block Social Media COVID-19 content",
     "permissions": [
         "geolocation"
     ],
